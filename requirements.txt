@@ -128,7 +128,7 @@ patsy==0.5.1
 pbr==5.2.1
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.0.0
+Pillow==6.2.0
 Pillow-SIMD==5.3.0.post1
 pip-review==1.0
 plac==1.0.0
