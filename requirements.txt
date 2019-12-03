@@ -45,7 +45,7 @@ docker==4.0.1
 docker-pycreds==0.4.0
 docutils==0.14
 dtreeviz==0.4
-ecdsa==0.13.2
+ecdsa==0.13.3
 editdistance==0.5.3
 eli5==0.8.2
 entrypoints==0.3
