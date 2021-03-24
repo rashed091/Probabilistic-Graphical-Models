@@ -164,7 +164,7 @@ qtconsole==4.5.1
 regex==2019.6.8
 requests==2.22.0
 responses==0.10.6
-rsa==4.0
+rsa==4.1
 s3transfer==0.2.1
 scikit-image==0.15.0
 scikit-learn==0.21.2
