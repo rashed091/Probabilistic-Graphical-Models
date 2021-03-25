@@ -158,7 +158,7 @@ python-jose==3.0.1
 pytorch-pretrained-bert==0.6.2
 pytz==2019.1
 PyWavelets==1.0.3
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.5.1
 regex==2019.6.8
