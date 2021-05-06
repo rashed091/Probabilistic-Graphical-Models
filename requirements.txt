@@ -55,7 +55,7 @@ featuretools==0.8.0
 flair==0.4.2
 flaky==3.5.3
 Flask==1.0.3
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 ftfy==5.5.1
 future==0.17.1
 gast==0.2.2
